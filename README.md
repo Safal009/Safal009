@@ -1,6 +1,14 @@
 
 
 
+**About Me!**
+
+- 👨🏽‍💻 I’m currently a second year Computer Student at PES Modern College of Engineering Pune
+- 🌱 I’m currently exploring Blockchain with a big interest in Smart Contracts. 
+- 💬 Ask me about anything, I love to answer!
+
+
+
 
 
 ## ⚙️ My skills
