@@ -7,8 +7,14 @@
 - 🌱 I’m currently exploring Blockchain with a big interest in Smart Contracts. 
 - 💬 Ask me about anything, I love to answer!
 
+<br>
+
 
 <img src="https://github-readme-stats.vercel.app/api?username=Safal009&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="Safal's GitHub Stats">
+
+<br>
+
+<img align="center" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Safal009&count_private=true&theme=radical" alt="Safal Bhandari" />
 
 
 
