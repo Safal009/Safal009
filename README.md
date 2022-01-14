@@ -8,6 +8,8 @@
 - 💬 Ask me about anything, I love to answer!
 
 
+<img src="https://github-readme-stats.vercel.app/api?username=Safal009&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="Safal's GitHub Stats">
+
 
 
 
